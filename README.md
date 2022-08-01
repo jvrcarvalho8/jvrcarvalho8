@@ -14,7 +14,7 @@ em Python, MySQL além das "linguagens" do Front como: HTML5, CSS e JavaScript.
     *  ©️ C/C++/C# - Básico ✅
 
 - ✨ Atualmente meus estudos estão se baseando mais ao Web Development em cursos on-line(Udemy, Alura...), mas sempre atento ao Python que é
-uma das linguagens que mais gostei.💞️
+uma das linguagens que mais gostei.
 
 - Se quiser entrar em contato comigo para projetos, estágios(👀), trabalho(👀👀) ou alguma dúvida é só me chamar:
     * 📫 Discord: João Vítor Rocha#7756
